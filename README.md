@@ -14,10 +14,22 @@ Personal notes for interview preparation
 ### Graph
 1. BFS
 2. DFS
-3. Topological Sort
-4. Shortest Path Algorithms
-5. Union Find
-6. Minimum Spanning Tree Algorithms
+3. Topological Sort (Kahn's Algorithm)
+4. Strongly Connected Components   
+   - Kosaraju Algorithm 
+5. Shortest Path Algorithms  
+   - Single Source Shortest Path  
+     a. Dijkstra's Algorithm  
+     b. Bellman Ford Algorithm  
+     c. Shortest/Longest Path on a DAG  
+   - Multisource Shortest Path  
+     a. Floyd-Warshall Algorithm   
+6. Union Find (Disjoint Set Union)
+7. Minimum Spanning Tree Algorithms  
+   - Prim's Algorithm  
+   - Kruskal's Algorithm  
+8. Bipartition
+     
 - [Leetcode discussion](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 - [Leetcode discussion](https://leetcode.com/discuss/study-guide/1326900/Graph-algorithms-%2B-problems-to-practice)
 - [Leetcode discussion](https://leetcode.com/discuss/study-guide/2360573/Become-Master-In-Graph)
